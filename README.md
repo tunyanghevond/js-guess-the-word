@@ -1,2 +1,2 @@
 ### js-guess-the-word
-The live link is game-guess-the-word-js.netlify.app
+ For the live project click [here](game-guess-the-word-js.netlify.app)
