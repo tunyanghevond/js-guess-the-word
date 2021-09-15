@@ -1,2 +1,2 @@
-# js-guess-the-word
-The live link is https://your-phone-store-react.netlify.app
+### js-guess-the-word
+The live link is game-guess-the-word-js.netlify.app
